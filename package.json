@@ -11,7 +11,7 @@
     "dotenv": "^7.0.0",
     "firebase": "^5.8.0",
     "install": "^0.12.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "npm": "^6.14.6",
     "vue": "^2.5.21",
     "vue-chat-scroll": "^1.3.5",
